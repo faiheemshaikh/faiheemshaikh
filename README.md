@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d16,100:e8b84b&height=200&section=header&text=Faheem%20Shaikh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20(Fresher)&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d16,100:e8b84b&height=160&section=header&text=Faheem%20Shaikh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=E8B84B&center=true&vCenter=true&width=600&height=50&lines=Java+Full+Stack+Developer+(Fresher);Spring+Boot+%C2%B7+React+%C2%B7+MySQL;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 
