@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d16,100:e8b84b&height=180&section=header&text=Faheem%20Shaikh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d16,100:e8b84b&height=200&section=header&text=Faheem%20Shaikh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=E8B84B&center=true&vCenter=true&width=600&height=40&lines=Java+Full+Stack+Developer+(Fresher);Spring+Boot+%C2%B7+React+%C2%B7+MySQL;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/faiheem-shaikh-434a91375" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
