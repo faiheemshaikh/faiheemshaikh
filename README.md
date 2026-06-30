@@ -13,7 +13,7 @@
 
 ### 👋 About Me
 
-🎓 B.Sc. Computer Science grad, ready to take on my first dev role
+🎓 B.Sc. Computer Science graduate, ready to take on my first dev role
 📚 Leveling up with a Java Full Stack Development program — Advanced Java, Spring Boot, Hibernate, React, DSA, SQL
 🛠️ Building full-stack projects one bug at a time 🐛
 💬 Happy to chat about Java, Spring Boot, or DSA anytime
