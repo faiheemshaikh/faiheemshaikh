@@ -71,7 +71,7 @@
 | [Mini API Gateway / Load Balancer](https://github.com/faiheemshaikh/mini-api-gateway) | Java API gateway with round-robin load balancing, background health checks, and automatic failover | Java, Multithreading, HTTP Servers |
 | [Service Telemetry & Incident Dashboard](https://github.com/faiheemshaikh/telemetry-dashboard) | Metrics collector with threshold-based incident detection and a live-updating dashboard | Java, Multithreading, HTTP Servers |
 
-> Tip: pin these using the **"Customize your pins"** button on your GitHub profile page so they also show as cards below this README.
+
 
 <br>
 
